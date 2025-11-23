@@ -1,7 +1,7 @@
 # 👩‍💻 Jixcoding | Front End Developer in Progress
 
 <p align="center">
-  <img src="bannergit.png" alt="Jixcoding Banner" />
+  <img src="github-header-banner.png" alt="Jixcoding Banner" />
 </p>
 
 ---
