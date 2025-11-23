@@ -1,4 +1,4 @@
-# 👩‍💻 Jixcoding | Front End Developer in Progress
+# 👩‍💻 Juliana Lizarazo "Jixcode" | Front End Developer in Progress
 
 <p align="center">
   <img src="github-header-banner.png" alt="Jixcoding Banner" />
