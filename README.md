@@ -1,7 +1,7 @@
 # 👩‍💻 Juliana Lizarazo "Jixcode" | Front End Developer in Progress
 
 <p align="center">
-  <img src="Make-your-README.png" alt="Jixcoding Banner" />
+  <img src="bannergithub.png" alt="Jixcoding Banner" />
 </p>
 
 ---
