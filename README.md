@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="./banner.png" alt="Jixcoding Banner">
+  <img src="./bannergit.png" alt="Jixcoding Banner">
 </p>
